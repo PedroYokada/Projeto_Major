@@ -1,0 +1,13 @@
+body {
+    background-color: yellowgreen;
+}
+
+#nome{
+    width: 500px;
+    height: 500px;
+}
+
+.outronome {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+

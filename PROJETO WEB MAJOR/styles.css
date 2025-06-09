@@ -1,13 +1,26 @@
-body {
-    background-color: yellowgreen;
+.container {
+  display: flex;
+  justify-content: center;
+  max-width: 700px;
+  max-height: 500px;    
 }
 
-#nome{
-    width: 500px;
-    height: 500px;
+.container2 {
+  display: flex;
+  justify-content: center;
+  max-width: 300px;
+  max-height: 3000px;    
 }
 
-.outronome {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.container3 {
+  display: flex;
+  justify-content: center;
+  max-width: 300px;
+  max-height: 300px;    
 }
 
+.imagem {
+    margin-top: 50px;
+    max-width: 300px;
+    max-height: 300px;
+}
